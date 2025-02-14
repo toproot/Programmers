@@ -1,6 +1,7 @@
+package 코딩테스트_고득점_Kit_스택_큐;
 import java.util.ArrayList;
 
-public class �������ڴ½Ⱦ� {
+public class 같은숫자는싫어 {
 
 	public static void main(String[] args) {
 		int[] input = {1,1,3,3,0,1,1};
